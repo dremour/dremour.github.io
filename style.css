@@ -419,7 +419,7 @@ input[type="email"]:focus {
 .submit {
     background: url("img/check.png");
     width: 63px;
-    height: 61px;
+    height: 60px;
     -moz-height: 61px;
     border: 0;
     border-radius: 0 3px 3px 0;
@@ -524,7 +524,7 @@ input[type="email"]:focus {
     position: relative;
     top: 72px;
     left: 652px;
-    padding: 1px 135px 0 30px;
+    padding: 1px 134px 0 30px;
     font-size: 12.9pt;
     letter-spacing: 3.2px
 }
