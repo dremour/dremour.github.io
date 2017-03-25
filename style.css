@@ -424,7 +424,7 @@ input[type="email"]:focus {
     border: 0;
     border-radius: 0 3px 3px 0;
     position: absolute;
-    top: 401px;
+    top: 403px;
     left: 746px;
 }
 
@@ -489,7 +489,7 @@ input[type="email"]:focus {
 }
 
 .apple {
-    background: url(img/apple-but.png);
+    background: url(img/apple-but.png) no-repeat;
     border: none;
     height: 56px;
     font-family: "Gotham Rounded", bold;
@@ -516,7 +516,7 @@ input[type="email"]:focus {
 }
 
 .play {
-    background: url(img/andro.png);
+    background: url(img/andro.png) no-repeat;
     border: none;
     height: 56px;
     font-family: "Gotham Rounded", bold;
