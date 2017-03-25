@@ -176,7 +176,7 @@ li.navbar a:hover {
 }
 
 .for-hand p {
-    font-family: "Gotham Rounded book";
+    font-family: 'GothamRounded-Book';
     font-size: 9pt;
     letter-spacing: 1.8px;
     color: #373737;
@@ -242,7 +242,7 @@ li.navbar a:hover {
 }
 
 .iphone p {
-    font-family: "Gotham Rounded book";
+    font-family: 'GothamRounded-Book';
     font-size: 9pt;
     letter-spacing: 1.8px;
     color: #373737;
