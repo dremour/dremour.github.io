@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'GothamRounded-Light';
+  src: url('GothamRounded-Light.eot');
+  src: url('GothamRounded-Light.woff2') format('woff2'),
+       url('GothamRounded-Light.woff') format('woff'),
+       url('GothamRounded-Light.ttf') format('truetype'),
+       url('GothamRounded-Light.svg#GothamRounded-Light') format('svg'),
+       url('GothamRounded-Light.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
