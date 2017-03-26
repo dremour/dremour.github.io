@@ -107,7 +107,7 @@ li.navbar a:hover {
     background: #16a085;
     border: none;
     padding: 17px 30px;
-    font-family:"Gotham Rounded", bold;
+    font-family:'GothamRounded-Bold';
     font-size: 9pt;
     text-transform: uppercase;
     color: #ffffff;
@@ -166,7 +166,7 @@ li.navbar a:hover {
 }
 
 .for-hand h2 {
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
     text-transform: uppercase;
     color: #16a085;
     font-size: 13pt;
@@ -185,14 +185,14 @@ li.navbar a:hover {
 }
 
 .for-hand span {
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
 }
 
 .button1 {
     background: #16a085;
     border: none;
     padding: 18px 44px;
-    font-family:"Gotham Rounded", bold;
+    font-family:'GothamRounded-Bold';
     font-size: 9pt;
     text-transform: uppercase;
     color: #ffffff;
@@ -232,7 +232,7 @@ li.navbar a:hover {
 }
 
 .iphone h2 {
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
     text-transform: uppercase;
     color: #16a085;
     font-size: 13pt;
@@ -252,14 +252,14 @@ li.navbar a:hover {
 }
 
 .iphone p span {
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
 }
 
 .button2 {
     background: #16a085;
     border: none;
     padding: 18px 47px 18px 46px;
-    font-family:"Gotham Rounded", bold;
+    font-family:'GothamRounded-Bold';
     font-size: 9pt;
     text-transform: uppercase;
     color: #ffffff;
@@ -288,7 +288,7 @@ li.navbar a:hover {
 }
 
 .unbut span {
-    font-family: "Gotham Rounded", bold;
+    font-family:'GothamRounded-Bold';
     clear: both;
     display: block;
     font-size: 8pt;
@@ -326,7 +326,7 @@ li.navbar a:hover {
 }
 
 .inscription h2 {
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
     text-transform: uppercase;
     color: #373737;
     font-size: 11pt;
@@ -336,7 +336,7 @@ li.navbar a:hover {
 }
 
 .inscription p {
-    font-family: "Gotham Rounded Medium";
+    font-family:'GothamRounded-Medium';
     font-size: 7pt;
     letter-spacing: 1.9px;
     padding-left: 7px;
@@ -387,7 +387,7 @@ li.navbar a:hover {
     position: relative;
     top: 44%;
     left: 2px;
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
     text-transform: uppercase;
     color: #ffffff;
     font-size: 18pt;
@@ -403,7 +403,7 @@ li.navbar a:hover {
     left:-2px;
     font-size: 11.3pt;
     text-transform: uppercase;
-    font-family: "Gotham Rounded Medium";
+    font-family: 'GothamRounded-Medium';
     color: #373737;
     padding: 22px 65px 20px 21px;
     width: 256px;
@@ -469,7 +469,7 @@ input[type="email"]:focus {
 }
 
 .text h2 {
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
     color: #373737;
     text-transform: uppercase;
     font-size: 15pt;
@@ -478,7 +478,7 @@ input[type="email"]:focus {
 }
 
 .text p {
-    font-family: "Gotham Rounded Medium";
+    font-family: 'GothamRounded-Medium';
     font-size: 8.6pt;
     text-transform: uppercase;
     color: #373737;
@@ -492,7 +492,7 @@ input[type="email"]:focus {
     background: url(img/apple-but.png) no-repeat;
     border: none;
     height: 56px;
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
     color: #fff;
     position: relative;
     top: 128px;
@@ -521,7 +521,7 @@ input[type="email"]:focus {
     background: url(img/andro.png) no-repeat;
     border: none;
     height: 56px;
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
     color: #fff;
     position: relative;
     top: 72px;
@@ -556,7 +556,7 @@ footer {
 footer ul li a {
     float: left;
     padding-right: 7px;
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
     text-transform: uppercase;
     font-size: 10pt;
     color: #373737;
@@ -586,7 +586,7 @@ footer img {
 }
 
 footer p {
-    font-family: "Gotham Rounded", bold;
+    font-family: 'GothamRounded-Bold';
     color: #373737;
     font-size: 10pt;
     position: absolute;
