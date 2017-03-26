@@ -18,7 +18,7 @@ a {
 
 h1 {
     text-transform: uppercase;
-    font-family:  'GothamRounded-Bold';
+    font-family: 'GothamRounded-Bold';
     font-size: 27pt;
     color: #ffffff;
     text-align: center;
@@ -44,16 +44,14 @@ header {
     height: 100px;
     width: 880px;
     padding: 0 200px;
-
 }
 
 
 .navbar {
     display: inline-block;
-    font-family:  'GothamRounded-Bold';
+    font-family: 'GothamRounded-Bold';
     font-size: 11pt;
     padding: 20px;
-
 }
 
 li.navbar a {
@@ -103,11 +101,12 @@ li.navbar a:hover {
     letter-spacing: 2.4px;
     margin-top: 6px;
 }
+
 .button {
     background: #16a085;
     border: none;
     padding: 17px 30px;
-    font-family:'GothamRounded-Bold';
+    font-family: 'GothamRounded-Bold';
     font-size: 9pt;
     text-transform: uppercase;
     color: #ffffff;
@@ -192,7 +191,7 @@ li.navbar a:hover {
     background: #16a085;
     border: none;
     padding: 18px 44px;
-    font-family:'GothamRounded-Bold';
+    font-family: 'GothamRounded-Bold';
     font-size: 9pt;
     text-transform: uppercase;
     color: #ffffff;
@@ -221,7 +220,6 @@ li.navbar a:hover {
     width: 1280px;
     background: url("img/iphone.png");
     margin: 0 auto;
-    
 }
 
 .iph {
@@ -259,7 +257,7 @@ li.navbar a:hover {
     background: #16a085;
     border: none;
     padding: 18px 47px 18px 46px;
-    font-family:'GothamRounded-Bold';
+    font-family: 'GothamRounded-Bold';
     font-size: 9pt;
     text-transform: uppercase;
     color: #ffffff;
@@ -288,7 +286,7 @@ li.navbar a:hover {
 }
 
 .unbut span {
-    font-family:'GothamRounded-Bold';
+    font-family: 'GothamRounded-Bold';
     clear: both;
     display: block;
     font-size: 8pt;
