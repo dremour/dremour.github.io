@@ -18,7 +18,7 @@ a {
 
 h1 {
     text-transform: uppercase;
-    font-family: "Gotham Rounded", bold;
+    font-family:  'GothamRounded-Bold';
     font-size: 27pt;
     color: #ffffff;
     text-align: center;
@@ -50,7 +50,7 @@ header {
 
 .navbar {
     display: inline-block;
-    font-family: "Gotham Rounded", bold;
+    font-family:  'GothamRounded-Bold';
     font-size: 11pt;
     padding: 20px;
 
@@ -96,7 +96,7 @@ li.navbar a:hover {
 }
 
 .under-h {
-    font-family: "Gotham Rounded medium";
+    font-family: 'GothamRounded-Medium';
     color: #ffffff;
     text-align: center;
     font-size: 12pt;
