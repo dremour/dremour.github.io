@@ -492,7 +492,7 @@ input[type="email"]:focus {
 }
 
 .apple {
-    background: url(img/apple-but.png) no-repeat;
+    background: url("img/apple-but.png") no-repeat;
     border: none;
     height: 56px;
     font-family: 'GothamRounded-Bold';
@@ -513,7 +513,7 @@ input[type="email"]:focus {
 .apple:active {
     box-shadow: inset -2px -2px 2px #156a50,inset 2px 2px 2px #156a50;
     border-radius: 3px;
-    padding: 5px 131px 0 25px;  
+    padding: 5px 131px 0 25px;
 }
 
 .apple:hover {
@@ -523,7 +523,7 @@ input[type="email"]:focus {
 }
 
 .play {
-    background: url(img/andro.png) no-repeat;
+    background: url("img/andro.png") no-repeat;
     border: none;
     height: 56px;
     font-family: 'GothamRounded-Bold';
