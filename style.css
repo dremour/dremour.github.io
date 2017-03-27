@@ -131,6 +131,7 @@ li.navbar a:hover {
 .button:hover {
     cursor: pointer;
     color: #dddddd;
+    background: #1b9475;
 }
 
 .icons {
@@ -213,6 +214,7 @@ li.navbar a:hover {
 .button1:hover {
     cursor: pointer;
     color: #dddddd;
+    background: #1b9475;
 }
 
 .iphone {
@@ -279,6 +281,7 @@ li.navbar a:hover {
 .button2:hover {
     cursor: pointer;
     color: #dddddd;
+    background: #1b9475;
 }
 
 .unbut {
@@ -300,6 +303,7 @@ li.navbar a:hover {
 
 .unbut img:hover {
     cursor: pointer;
+    background: #1b9475;
 }
 
 .community {
@@ -436,6 +440,7 @@ input[type="email"]:focus {
 
 .submit:hover {
     cursor: pointer;
+    background: url("img/check-hov.png");;
 }
 
 ::-webkit-input-placeholder {color:#373737;}
@@ -506,13 +511,15 @@ input[type="email"]:focus {
 }
 
 .apple:active {
-    box-shadow: inset -2px -2px 2px #157d63,inset 2px 2px 2px #157d63;
+    box-shadow: inset -2px -2px 2px #156a50,inset 2px 2px 2px #156a50;
     border-radius: 3px;
-    padding: 5px 131px 0 25px;
+    padding: 5px 131px 0 25px;  
 }
 
-.apple,.play:hover {
+.apple:hover {
     cursor: pointer;
+    background: url("img/apple-hov.png") no-repeat;
+    color: #eee;
 }
 
 .play {
@@ -534,13 +541,15 @@ input[type="email"]:focus {
 }
 
 .play:active {
-    box-shadow: inset -2px -2px 2px #157d63,inset 2px 2px 2px #157d63;
+    box-shadow: inset -2px -2px 2px #156a50,inset 2px 2px 2px #156a50;
     border-radius: 3px;
     padding: 1px 124px 0 30px;
 }
 
 .play:hover {
     cursor: pointer;
+    background: url("img/android-hov.png") no-repeat;
+    color: #eee;
 }
 
 footer {
